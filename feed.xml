@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2024-04-09T14:13:16-04:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Wanpil Nicole Choi</title>
+  
+
+  
+    <subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Daily Daisies</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Daily Daisies" />
+      <published>2014-07-18T00:00:00-04:00</published>
+      <updated>2014-07-18T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Daily-Daisies</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="AR Development" />
+      
+
+      
+        <category term="CS" />
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Painpal</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Painpal" />
+      <published>2014-07-17T00:00:00-04:00</published>
+      <updated>2014-07-17T00:00:00-04:00</updated>
+      <id>http://localhost:4000/PainPal</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="VR Development" />
+      
+
+      
+        <category term="CS" />
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Takoyaki’s Revenge</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Takoyaki&apos;s Revenge" />
+      <published>2014-07-16T00:00:00-04:00</published>
+      <updated>2014-07-16T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Takoyaki&apos;s-Revenge</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Game Development" />
+      
+
+      
+        <category term="CS" />
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Temptation</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Temptation" />
+      <published>2014-07-15T00:00:00-04:00</published>
+      <updated>2014-07-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Temptation</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Animation" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Food Fight</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Food Fight" />
+      <published>2014-07-14T00:00:00-04:00</published>
+      <updated>2014-07-14T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Food-Fight</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Animation" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Walking Ice Cream</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Walking Ice Cream" />
+      <published>2014-07-13T00:00:00-04:00</published>
+      <updated>2014-07-13T00:00:00-04:00</updated>
+      <id>http://localhost:4000/Walking-Ice-Cream</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Animation" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
